@@ -1,6 +1,7 @@
 [
-     {
-       "package": "jstats",
-       "url": "https://github.com/JMA61/jstats"
-     }
-   ]
+  {
+    "package": "jstats",
+    "url": "https://github.com/JMA61/jstats",
+    "branch": "*release"
+  }
+]
